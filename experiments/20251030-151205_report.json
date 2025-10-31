@@ -1,0 +1,35 @@
+{
+  "run_id": "20251030-151205",
+  "model": "qwen2.5:0.5b-instruct",
+  "mode": "carry",
+  "metrics": {
+    "accuracy": 0.75,
+    "n": 12
+  },
+  "sample": [
+    {
+      "id": "math-carry-0",
+      "prompt": "914 - 444 = ?",
+      "gold": "470",
+      "pred": "470",
+      "mode": "carry",
+      "correct": 1
+    },
+    {
+      "id": "math-carry-1",
+      "prompt": "91 - 315 = ?",
+      "gold": "-224",
+      "pred": "-224",
+      "mode": "carry",
+      "correct": 1
+    },
+    {
+      "id": "math-carry-2",
+      "prompt": "464 - 990 = ?",
+      "gold": "-526",
+      "pred": "-136",
+      "mode": "carry",
+      "correct": 0
+    }
+  ]
+}

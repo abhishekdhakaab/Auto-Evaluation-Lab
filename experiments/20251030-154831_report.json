@@ -1,0 +1,48 @@
+{
+  "run_id": "20251030-154831",
+  "model": "qwen2.5:0.5b-instruct",
+  "domain": "reason",
+  "mode": null,
+  "metrics": {
+    "accuracy": 0.25,
+    "judge_avg": 2.9375,
+    "n": 8
+  },
+  "sample": [
+    {
+      "id": "reason-0",
+      "prompt": "Every scientists likes mammals. Riley is a scientists. Does Riley like mammals?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+      "gold": "Yes",
+      "gold_rationale": "Universal statement applies to all scientists; Riley is scientists, so yes.",
+      "pred_text": "Yes. Riley, being a scientist, would likely have knowledge about various species of animals, including mammals.",
+      "pred_label": "",
+      "correct": 0,
+      "judge": 4.5
+    },
+    {
+      "id": "reason-1",
+      "prompt": "If scientists then tired. tired is false. Is scientists false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+      "gold": "Yes",
+      "gold_rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00actired, \u00acscientists.",
+      "pred_text": "Final: No\n\nExplanation: If the statement \"scientists are tired\" were true, then it would be false because scientists cannot simultaneously be both tired and not being tired. Therefore, if scientists were to become tired, the statement \"scientists are tired\" would no longer be true, making the final answer \"No\".",
+      "pred_label": "No",
+      "correct": 0,
+      "judge": 1.0
+    },
+    {
+      "id": "reason-2",
+      "prompt": "Every robots likes happy. Sam is a robots. Does Sam like happy?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+      "gold": "Yes",
+      "gold_rationale": "Universal statement applies to all robots; Sam is robots, so yes.",
+      "pred_text": "No. Sam, being a robot, does not inherently have the ability to experience emotions or preferences like humans do. Robots are designed to perform tasks without any cognitive processes, making it impossible for them to form opinions about things they don't perceive or interact with. Therefore, even if Sam is a robot, he cannot be said to \"like\" anything in the same way that a human would.",
+      "pred_label": "",
+      "correct": 0,
+      "judge": 1.0
+    }
+  ],
+  "params": {
+    "n_items": 8,
+    "seed": 0,
+    "judge_model": "qwen2.5:0.5b-instruct"
+  }
+}

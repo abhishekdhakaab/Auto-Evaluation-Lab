@@ -1,0 +1,35 @@
+{
+  "run_id": "20251030-152146",
+  "model": "qwen2.5:0.5b-instruct",
+  "mode": "single",
+  "metrics": {
+    "accuracy": 0.8333333333333334,
+    "n": 12
+  },
+  "sample": [
+    {
+      "id": "math-single-0",
+      "prompt": "13 + 14 = ?",
+      "gold": "27",
+      "pred": "27",
+      "mode": "single",
+      "correct": 1
+    },
+    {
+      "id": "math-single-1",
+      "prompt": "9 - 17 = ?",
+      "gold": "-8",
+      "pred": "-8",
+      "mode": "single",
+      "correct": 1
+    },
+    {
+      "id": "math-single-2",
+      "prompt": "13 - 10 = ?",
+      "gold": "3",
+      "pred": "3",
+      "mode": "single",
+      "correct": 1
+    }
+  ]
+}

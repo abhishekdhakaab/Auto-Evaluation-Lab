@@ -1,0 +1,74 @@
+[
+  {
+    "id": "reason-0",
+    "prompt": "Every scientists likes mammals. Riley is a scientists. Does Riley like mammals?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Universal statement applies to all scientists; Riley is scientists, so yes."
+    }
+  },
+  {
+    "id": "reason-1",
+    "prompt": "If scientists then tired. tired is false. Is scientists false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00actired, \u00acscientists."
+    }
+  },
+  {
+    "id": "reason-2",
+    "prompt": "Every robots likes happy. Sam is a robots. Does Sam like happy?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Universal statement applies to all robots; Sam is robots, so yes."
+    }
+  },
+  {
+    "id": "reason-3",
+    "prompt": "If teachers then licensed. licensed is false. Is teachers false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00acteachers."
+    }
+  },
+  {
+    "id": "reason-4",
+    "prompt": "All painters are licensed. Casey is a painters. Is Casey a licensed?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "By universal rule 'All painters are licensed', and Casey is painters, so Casey is licensed."
+    }
+  },
+  {
+    "id": "reason-5",
+    "prompt": "If teachers then licensed. licensed is false. Is teachers false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00acteachers."
+    }
+  },
+  {
+    "id": "reason-6",
+    "prompt": "All drivers are licensed. Jordan is a drivers. Is Jordan a licensed?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "By universal rule 'All drivers are licensed', and Jordan is drivers, so Jordan is licensed."
+    }
+  },
+  {
+    "id": "reason-7",
+    "prompt": "If cats then licensed. licensed is false. Is cats false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "answer": "Yes",
+    "domain": "reason",
+    "meta": {
+      "rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00accats."
+    }
+  }
+]

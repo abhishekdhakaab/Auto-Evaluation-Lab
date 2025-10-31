@@ -1,0 +1,86 @@
+[
+  {
+    "id": "math-0",
+    "prompt": "13 + 14 = ?",
+    "gold": "27",
+    "pred": "27",
+    "correct": 1
+  },
+  {
+    "id": "math-1",
+    "prompt": "9 - 17 = ?",
+    "gold": "-8",
+    "pred": "-8",
+    "correct": 1
+  },
+  {
+    "id": "math-2",
+    "prompt": "13 - 10 = ?",
+    "gold": "3",
+    "pred": "3",
+    "correct": 1
+  },
+  {
+    "id": "math-3",
+    "prompt": "12 + 19 = ?",
+    "gold": "31",
+    "pred": "21",
+    "correct": 0
+  },
+  {
+    "id": "math-4",
+    "prompt": "17 - 5 = ?",
+    "gold": "12",
+    "pred": "12",
+    "correct": 1
+  },
+  {
+    "id": "math-5",
+    "prompt": "5 - 4 = ?",
+    "gold": "1",
+    "pred": "1",
+    "correct": 1
+  },
+  {
+    "id": "math-6",
+    "prompt": "18 + 20 = ?",
+    "gold": "38",
+    "pred": "38",
+    "correct": 1
+  },
+  {
+    "id": "math-7",
+    "prompt": "10 + 4 = ?",
+    "gold": "14",
+    "pred": "14",
+    "correct": 1
+  },
+  {
+    "id": "math-8",
+    "prompt": "11 + 16 = ?",
+    "gold": "27",
+    "pred": "27",
+    "correct": 1
+  },
+  {
+    "id": "math-9",
+    "prompt": "12 - 14 = ?",
+    "gold": "-2",
+    "pred": "-2",
+    "correct": 1
+  },
+  {
+    "id": "math-10",
+    "prompt": "20 - 7 = ?",
+    "gold": "13",
+    "pred": "13",
+    "correct": 1
+  },
+  {
+    "id": "math-11",
+    "prompt": "15 - 17 = ?",
+    "gold": "-2",
+    "pred": "-2",
+    "correct": 1
+  }
+]

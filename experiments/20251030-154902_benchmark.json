@@ -1,0 +1,110 @@
+[
+  {
+    "id": "math-single-0",
+    "prompt": "5 + 19 = ?",
+    "answer": "24",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-1",
+    "prompt": "9 - 4 = ?",
+    "answer": "5",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-2",
+    "prompt": "15 - 16 = ?",
+    "answer": "-1",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-3",
+    "prompt": "7 - 4 = ?",
+    "answer": "3",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-4",
+    "prompt": "1 - 13 = ?",
+    "answer": "-12",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-5",
+    "prompt": "20 - 1 = ?",
+    "answer": "19",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-6",
+    "prompt": "9 + 8 = ?",
+    "answer": "17",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-7",
+    "prompt": "11 + 1 = ?",
+    "answer": "12",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-8",
+    "prompt": "1 + 18 = ?",
+    "answer": "19",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-9",
+    "prompt": "13 - 7 = ?",
+    "answer": "6",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-10",
+    "prompt": "1 + 17 = ?",
+    "answer": "18",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  },
+  {
+    "id": "math-single-11",
+    "prompt": "15 + 16 = ?",
+    "answer": "31",
+    "domain": "math",
+    "meta": {
+      "mode": "single"
+    }
+  }
+]

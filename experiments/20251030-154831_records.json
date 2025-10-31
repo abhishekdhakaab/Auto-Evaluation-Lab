@@ -1,0 +1,82 @@
+[
+  {
+    "id": "reason-0",
+    "prompt": "Every scientists likes mammals. Riley is a scientists. Does Riley like mammals?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Universal statement applies to all scientists; Riley is scientists, so yes.",
+    "pred_text": "Yes. Riley, being a scientist, would likely have knowledge about various species of animals, including mammals.",
+    "pred_label": "",
+    "correct": 0,
+    "judge": 4.5
+  },
+  {
+    "id": "reason-1",
+    "prompt": "If scientists then tired. tired is false. Is scientists false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00actired, \u00acscientists.",
+    "pred_text": "Final: No\n\nExplanation: If the statement \"scientists are tired\" were true, then it would be false because scientists cannot simultaneously be both tired and not being tired. Therefore, if scientists were to become tired, the statement \"scientists are tired\" would no longer be true, making the final answer \"No\".",
+    "pred_label": "No",
+    "correct": 0,
+    "judge": 1.0
+  },
+  {
+    "id": "reason-2",
+    "prompt": "Every robots likes happy. Sam is a robots. Does Sam like happy?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Universal statement applies to all robots; Sam is robots, so yes.",
+    "pred_text": "No. Sam, being a robot, does not inherently have the ability to experience emotions or preferences like humans do. Robots are designed to perform tasks without any cognitive processes, making it impossible for them to form opinions about things they don't perceive or interact with. Therefore, even if Sam is a robot, he cannot be said to \"like\" anything in the same way that a human would.",
+    "pred_label": "",
+    "correct": 0,
+    "judge": 1.0
+  },
+  {
+    "id": "reason-3",
+    "prompt": "If teachers then licensed. licensed is false. Is teachers false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00acteachers.",
+    "pred_text": "Final: No\n\nExplanation:\nThe statement \"teachers then licensed\" implies that the current state of affairs (teachers being licensed) is not necessarily true. The phrase \"then\" suggests that there could be another scenario where teachers are still unlicensed, but this does not directly contradict or negate the initial claim about their current status. Therefore, we cannot definitively conclude that \"teachers are false\" based solely on the given information.",
+    "pred_label": "No",
+    "correct": 0,
+    "judge": 1.0
+  },
+  {
+    "id": "reason-4",
+    "prompt": "All painters are licensed. Casey is a painters. Is Casey a licensed?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "By universal rule 'All painters are licensed', and Casey is painters, so Casey is licensed.",
+    "pred_text": "Final: Yes\n\nExplanation:\nCasey is explicitly stated to be a painter, which means she has the necessary skills and qualifications to be licensed. Therefore, Casey qualifies as a licensed painter.",
+    "pred_label": "Yes",
+    "correct": 1,
+    "judge": 4.0
+  },
+  {
+    "id": "reason-5",
+    "prompt": "If teachers then licensed. licensed is false. Is teachers false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00acteachers.",
+    "pred_text": "Final: No\n\nExplanation:\nThe statement \"teachers then licensed\" implies that the teacher has already obtained their teaching license, which is not true. If a teacher has already obtained their teaching license, it would be logically impossible for them to have been licensed before. Therefore, we can conclude that teachers are false based on this information.",
+    "pred_label": "No",
+    "correct": 0,
+    "judge": 4.0
+  },
+  {
+    "id": "reason-6",
+    "prompt": "All drivers are licensed. Jordan is a drivers. Is Jordan a licensed?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "By universal rule 'All drivers are licensed', and Jordan is drivers, so Jordan is licensed.",
+    "pred_text": "Final: Yes\n\nExplanation:\nJordan, being a driver, would be considered a licensed individual because they possess the necessary licenses and credentials to operate vehicles legally.",
+    "pred_label": "Yes",
+    "correct": 1,
+    "judge": 4.0
+  },
+  {
+    "id": "reason-7",
+    "prompt": "If cats then licensed. licensed is false. Is cats false?\n\nAnswer Yes or No and explain in 2\u20133 sentences.\nPut your final decision on a new last line exactly as: Final: Yes   or   Final: No",
+    "gold": "Yes",
+    "gold_rationale": "Contrapositive: If A\u2192B then \u00acB\u2192\u00acA; since \u00aclicensed, \u00accats.",
+    "pred_text": "Final: No\n\nExplanation:\nThe statement \"cats then licensed\" implies that if cats are true, then the statement must be false. The given information states that the statement is false, which directly contradicts this implication. Therefore, we can conclude that cats cannot be false based on the provided information.\n\nFinal: Yes",
+    "pred_label": "No",
+    "correct": 0,
+    "judge": 4.0
+  }
+]

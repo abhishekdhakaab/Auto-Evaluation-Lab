@@ -1,0 +1,98 @@
+[
+  {
+    "id": "math-multi-0",
+    "prompt": "28 + 28 + 2 = ?",
+    "gold": "58",
+    "pred": "50",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-1",
+    "prompt": "12 - 27 - 6 = ?",
+    "gold": "-21",
+    "pred": "-39",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-2",
+    "prompt": "20 + 7 + 20 = ?",
+    "gold": "47",
+    "pred": "39",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-3",
+    "prompt": "14 - 21 - 13 = ?",
+    "gold": "-20",
+    "pred": "-8",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-4",
+    "prompt": "17 + 9 + 29 = ?",
+    "gold": "55",
+    "pred": "47",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-5",
+    "prompt": "12 - 15 - 30 = ?",
+    "gold": "-33",
+    "pred": "-47",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-6",
+    "prompt": "14 + 29 + 29 = ?",
+    "gold": "72",
+    "pred": "43",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-7",
+    "prompt": "8 + 8 - 1 = ?",
+    "gold": "15",
+    "pred": "9",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-8",
+    "prompt": "6 - 5 + 17 = ?",
+    "gold": "18",
+    "pred": "14",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-9",
+    "prompt": "29 - 15 - 26 = ?",
+    "gold": "-12",
+    "pred": "-8",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-10",
+    "prompt": "26 - 19 - 12 = ?",
+    "gold": "-5",
+    "pred": "3",
+    "mode": "multi",
+    "correct": 0
+  },
+  {
+    "id": "math-multi-11",
+    "prompt": "6 - 25 + 13 = ?",
+    "gold": "-6",
+    "pred": "-8",
+    "mode": "multi",
+    "correct": 0
+  }
+]

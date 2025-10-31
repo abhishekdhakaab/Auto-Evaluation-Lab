@@ -1,0 +1,7 @@
+max_items_per_round: 12
+forbidden_topics: []
+rate_limit_per_min: 60
+judge: "rule_based"   # (later: "llm_judge")
+models:
+  candidate: "qwen2.5:0.5b-instruct"   # or "gemma3:1b"
+  judge: "qwen2.5:0.5b-instruct"

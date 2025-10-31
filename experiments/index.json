@@ -1,0 +1,140 @@
+[
+  {
+    "run_id": "20251030-150841",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": null,
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-151144",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-151156",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.0
+  },
+  {
+    "run_id": "20251030-151205",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "carry",
+    "accuracy": 0.75
+  },
+  {
+    "run_id": "20251030-151822",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-151828",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-152131",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-152134",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.08333333333333333
+  },
+  {
+    "run_id": "20251030-152140",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-152142",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.08333333333333333
+  },
+  {
+    "run_id": "20251030-152146",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-152149",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.0
+  },
+  {
+    "run_id": "20251030-152348",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-152351",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.0
+  },
+  {
+    "run_id": "20251030-152726",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-152737",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-152740",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-153532",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-153535",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.8333333333333334
+  },
+  {
+    "run_id": "20251030-154816",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-154831",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "reason",
+    "accuracy": 0.25
+  },
+  {
+    "run_id": "20251030-154902",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "single",
+    "accuracy": 0.9166666666666666
+  },
+  {
+    "run_id": "20251030-154905",
+    "model": "qwen2.5:0.5b-instruct",
+    "mode": "multi",
+    "accuracy": 0.0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "run_id": "20251030-154902",
+  "model": "qwen2.5:0.5b-instruct",
+  "domain": "math",
+  "mode": "single",
+  "metrics": {
+    "accuracy": 0.9166666666666666,
+    "n": 12
+  },
+  "sample": [
+    {
+      "id": "math-single-0",
+      "prompt": "5 + 19 = ?",
+      "gold": "24",
+      "pred": "24",
+      "mode": "single",
+      "correct": 1
+    },
+    {
+      "id": "math-single-1",
+      "prompt": "9 - 4 = ?",
+      "gold": "5",
+      "pred": "5",
+      "mode": "single",
+      "correct": 1
+    },
+    {
+      "id": "math-single-2",
+      "prompt": "15 - 16 = ?",
+      "gold": "-1",
+      "pred": "-1",
+      "mode": "single",
+      "correct": 1
+    }
+  ],
+  "params": {
+    "n_items": 12,
+    "seed": 1,
+    "judge_model": null
+  }
+}

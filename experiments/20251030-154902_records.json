@@ -1,0 +1,98 @@
+[
+  {
+    "id": "math-single-0",
+    "prompt": "5 + 19 = ?",
+    "gold": "24",
+    "pred": "24",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-1",
+    "prompt": "9 - 4 = ?",
+    "gold": "5",
+    "pred": "5",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-2",
+    "prompt": "15 - 16 = ?",
+    "gold": "-1",
+    "pred": "-1",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-3",
+    "prompt": "7 - 4 = ?",
+    "gold": "3",
+    "pred": "3",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-4",
+    "prompt": "1 - 13 = ?",
+    "gold": "-12",
+    "pred": "-22",
+    "mode": "single",
+    "correct": 0
+  },
+  {
+    "id": "math-single-5",
+    "prompt": "20 - 1 = ?",
+    "gold": "19",
+    "pred": "19",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-6",
+    "prompt": "9 + 8 = ?",
+    "gold": "17",
+    "pred": "17",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-7",
+    "prompt": "11 + 1 = ?",
+    "gold": "12",
+    "pred": "12",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-8",
+    "prompt": "1 + 18 = ?",
+    "gold": "19",
+    "pred": "19",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-9",
+    "prompt": "13 - 7 = ?",
+    "gold": "6",
+    "pred": "6",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-10",
+    "prompt": "1 + 17 = ?",
+    "gold": "18",
+    "pred": "18",
+    "mode": "single",
+    "correct": 1
+  },
+  {
+    "id": "math-single-11",
+    "prompt": "15 + 16 = ?",
+    "gold": "31",
+    "pred": "31",
+    "mode": "single",
+    "correct": 1
+  }
+]

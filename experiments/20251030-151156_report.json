@@ -1,0 +1,35 @@
+{
+  "run_id": "20251030-151156",
+  "model": "qwen2.5:0.5b-instruct",
+  "mode": "multi",
+  "metrics": {
+    "accuracy": 0.0,
+    "n": 12
+  },
+  "sample": [
+    {
+      "id": "math-multi-0",
+      "prompt": "28 - 13 + 25 = ?",
+      "gold": "40",
+      "pred": "34",
+      "mode": "multi",
+      "correct": 0
+    },
+    {
+      "id": "math-multi-1",
+      "prompt": "9 - 17 - 16 = ?",
+      "gold": "-24",
+      "pred": "-23",
+      "mode": "multi",
+      "correct": 0
+    },
+    {
+      "id": "math-multi-2",
+      "prompt": "16 + 12 + 19 = ?",
+      "gold": "47",
+      "pred": "37",
+      "mode": "multi",
+      "correct": 0
+    }
+  ]
+}

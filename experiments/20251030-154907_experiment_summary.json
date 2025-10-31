@@ -1,0 +1,24 @@
+{
+  "rounds_requested": 5,
+  "rounds_run": 2,
+  "domain": "math",
+  "start_mode": "single",
+  "final_mode": "multi",
+  "best_accuracy": 0.9166666666666666,
+  "history": [
+    {
+      "round": 1,
+      "run_id": "20251030-154902",
+      "domain": "math",
+      "mode": "single",
+      "accuracy": 0.9166666666666666
+    },
+    {
+      "round": 2,
+      "run_id": "20251030-154905",
+      "domain": "math",
+      "mode": "multi",
+      "accuracy": 0.0
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "math-carry-0",
+    "prompt": "914 - 444 = ?",
+    "gold": "470",
+    "pred": "470",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-1",
+    "prompt": "91 - 315 = ?",
+    "gold": "-224",
+    "pred": "-224",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-2",
+    "prompt": "464 - 990 = ?",
+    "gold": "-526",
+    "pred": "-136",
+    "mode": "carry",
+    "correct": 0
+  },
+  {
+    "id": "math-carry-3",
+    "prompt": "538 + 416 = ?",
+    "gold": "954",
+    "pred": "954",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-4",
+    "prompt": "566 - 192 = ?",
+    "gold": "374",
+    "pred": "374",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-5",
+    "prompt": "193 + 823 = ?",
+    "gold": "1016",
+    "pred": "1016",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-6",
+    "prompt": "683 - 868 = ?",
+    "gold": "-185",
+    "pred": "-145",
+    "mode": "carry",
+    "correct": 0
+  },
+  {
+    "id": "math-carry-7",
+    "prompt": "981 + 595 = ?",
+    "gold": "1576",
+    "pred": "1576",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-8",
+    "prompt": "367 + 151 = ?",
+    "gold": "518",
+    "pred": "518",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-9",
+    "prompt": "970 - 920 = ?",
+    "gold": "50",
+    "pred": "-50",
+    "mode": "carry",
+    "correct": 0
+  },
+  {
+    "id": "math-carry-10",
+    "prompt": "533 + 623 = ?",
+    "gold": "1156",
+    "pred": "1156",
+    "mode": "carry",
+    "correct": 1
+  },
+  {
+    "id": "math-carry-11",
+    "prompt": "412 - 494 = ?",
+    "gold": "-82",
+    "pred": "-82",
+    "mode": "carry",
+    "correct": 1
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "math-carry-0",
+    "prompt": "914 - 444 = ?",
+    "answer": "470",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-1",
+    "prompt": "91 - 315 = ?",
+    "answer": "-224",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-2",
+    "prompt": "464 - 990 = ?",
+    "answer": "-526",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-3",
+    "prompt": "538 + 416 = ?",
+    "answer": "954",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-4",
+    "prompt": "566 - 192 = ?",
+    "answer": "374",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-5",
+    "prompt": "193 + 823 = ?",
+    "answer": "1016",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-6",
+    "prompt": "683 - 868 = ?",
+    "answer": "-185",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-7",
+    "prompt": "981 + 595 = ?",
+    "answer": "1576",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-8",
+    "prompt": "367 + 151 = ?",
+    "answer": "518",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-9",
+    "prompt": "970 - 920 = ?",
+    "answer": "50",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-10",
+    "prompt": "533 + 623 = ?",
+    "answer": "1156",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  },
+  {
+    "id": "math-carry-11",
+    "prompt": "412 - 494 = ?",
+    "answer": "-82",
+    "domain": "math",
+    "meta": {
+      "mode": "carry"
+    }
+  }
+]

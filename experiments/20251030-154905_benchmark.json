@@ -1,0 +1,110 @@
+[
+  {
+    "id": "math-multi-0",
+    "prompt": "28 + 28 + 2 = ?",
+    "answer": "58",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-1",
+    "prompt": "12 - 27 - 6 = ?",
+    "answer": "-21",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-2",
+    "prompt": "20 + 7 + 20 = ?",
+    "answer": "47",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-3",
+    "prompt": "14 - 21 - 13 = ?",
+    "answer": "-20",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-4",
+    "prompt": "17 + 9 + 29 = ?",
+    "answer": "55",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-5",
+    "prompt": "12 - 15 - 30 = ?",
+    "answer": "-33",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-6",
+    "prompt": "14 + 29 + 29 = ?",
+    "answer": "72",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-7",
+    "prompt": "8 + 8 - 1 = ?",
+    "answer": "15",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-8",
+    "prompt": "6 - 5 + 17 = ?",
+    "answer": "18",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-9",
+    "prompt": "29 - 15 - 26 = ?",
+    "answer": "-12",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-10",
+    "prompt": "26 - 19 - 12 = ?",
+    "answer": "-5",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  },
+  {
+    "id": "math-multi-11",
+    "prompt": "6 - 25 + 13 = ?",
+    "answer": "-6",
+    "domain": "math",
+    "meta": {
+      "mode": "multi"
+    }
+  }
+]
